@@ -25,8 +25,8 @@ Before running this application, you'll need:
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/DSC-UIT-khi/Image-Caption-Generator.git
-cd Image-Generator
+git clone https://github.com/H7-code/Image-Caption-Generator.git
+cd Image-Caption-Generator
 ```
 
 2. Create a virtual environment (recommended):
